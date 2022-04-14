@@ -1,0 +1,5 @@
+.DS_Store
+.vsconfig
+.vs
+Data-Persistence-Starter-Files/Library/PackageCache/*
+*/Temp/*
